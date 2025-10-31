@@ -14,20 +14,14 @@
 
 ---
 
-### 📈 My GitHub Story
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=payal1184&theme=react-dark&bg_color=0d1117&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=payal1184&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payal1184&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+## 📊 My GitHub Story
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=payal1184&theme=react-dark)
 
 🔥 **GitHub Streaks**
+[![GitHub Streak](https://streak-stats.demolab.com?user=payal1184&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=payal1184&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+⚙️ **GitHub Stats**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=payal1184&show_icons=true&theme=radical)
 
 ---
 
