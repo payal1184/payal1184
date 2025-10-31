@@ -88,9 +88,7 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=payal1184&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+<img src="https://github-readme-streak-stats-salesp07.vercel.app?user=payal1184&theme=rose_pine&hide_border=true" />
 
 
 
