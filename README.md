@@ -89,8 +89,9 @@
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=payal1184&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=payal1184&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
+
 
 
 ---
