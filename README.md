@@ -97,10 +97,6 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" alt="Waving Hand Purple Animation" />
-</p>
-
-<p align="center">
   <sub>💜 Always open to collaborations & cloud discussions ☁️</sub>
 </p>
 
