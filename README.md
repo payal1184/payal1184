@@ -83,22 +83,27 @@
 
 ---
 
-<<h2 align="center">💫 Let's Connect!</h2>
+
+<h2 align="center">💫 Let's Connect!</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=color=6E40C9
-&center=true&vCenter=true&width=500&lines=Find+me+on+my+digital+spaces!;Let's+connect+and+grow+together!+🤝" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Find+me+on+my+digital+spaces!;Let's+connect+and+grow+together!+🤝" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/payal1184"><img src="https://skillicons.dev/icons?i=linkedin" width="48" /></a>
-  <a href="mailto:payal@example.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" /></a>
-  <a href="https://github.com/payal1184"><img src="https://skillicons.dev/icons?i=github" width="48" /></a>
+  <a href="https://linkedin.com/in/payal1184"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" /></a>
+  <a href="mailto:payal@example.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" /></a>
+  <a href="https://github.com/payal1184"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" /></a>
 </p>
 
 <p align="center">
-  <sub>✨ Always open to collaborations & cloud discussions ☁️</sub>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" alt="Waving Hand Purple Animation" />
 </p>
+
+<p align="center">
+  <sub>💜 Always open to collaborations & cloud discussions ☁️</sub>
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F9A8D4&height=90&section=footer"/>
 </p>
