@@ -86,7 +86,7 @@
 <h2 align="center">💫 Let's Connect!</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F472B6&center=true&vCenter=true&width=435&lines=Find+me+on+my+digital+spaces!;Let's+connect+and+grow+together!+🤝" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=500&lines=Find+me+on+my+digital+spaces!;Let's+connect+and+grow+together!+🤝" alt="Typing SVG" />
 </p>
 
 <p align="center">
