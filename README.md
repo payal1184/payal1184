@@ -1,15 +1,25 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Payal Pachangane</h1>
-<h3 align="center">🌩️ Cloud & DevOps Enthusiast | AWS | Python | Linux | Always learning ☁️</h3>
+<h2 align="center">✨ Hey there, I'm <span style="color:#ff66b2;">Payal Pachangane</span> 👩‍💻</h2>
+
+<p align="center">
+💫 Passionate about Cloud & DevOps | 💻 AWS Enthusiast | 🚀 Learning to build scalable systems
+</p>
 
 ---
 
-### 🧭 About Me  
-💡 Passionate about Cloud Computing, DevOps tools, and automation.  
-🚀 Skilled in AWS services (EC2, S3, Lambda, CloudWatch).  
-🧰 Experience with Git, GitHub Actions, and monitoring setups.  
-🎯 Preparing for AWS Technical Support Engineer role.  
-🌱 Always exploring new technologies to build scalable solutions.  
+### 🧠 A Little About Me  
+
+🌼 I love exploring cloud technologies, automating workflows, and designing simple yet powerful solutions.  
+☁️ Currently learning more about **AWS Lambda, CloudWatch & Serverless Architectures**.  
+💬 Ask me about **AWS | GitHub | DevOps Basics**  
+🎯 Goal: To become a skilled **Cloud / DevOps Engineer**  
+📫 Reach me on: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link-here)  
+🧩 Fun fact: I like turning ideas into real-time cloud projects 🌈  
+
+---
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" width="80%">
+</p>
 
 
 ### 🧠 Tech Universe
