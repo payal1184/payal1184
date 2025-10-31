@@ -50,8 +50,28 @@
       <img src="https://skillicons.dev/icons?i=python" width="45" title="Python Scripts"/>
       <br><b style="color:#FFD43B;">Python</b>
     </td>
-    <
+    <td align="center" style="padding:10px;">
+      <img src="https://skillicons.dev/icons?i=mysql" width="45" title="MySQL Database"/>
+      <br><b style="color:#00758F;">MySQL</b>
+    </td>
+    <td align="center" style="padding:10px;">
+      <img src="https://skillicons.dev/icons?i=bash" width="45" title="Bash Scripting"/>
+      <br><b style="color:#4EAA25;">Bash</b>
+    </td>
+    <td align="center" style="padding:10px;">
+      <img src="https://skillicons.dev/icons?i=nginx" width="45" title="Nginx Web Server"/>
+      <br><b style="color:#009639;">Nginx</b>
+    </td>
+    <td align="center" style="padding:10px;">
+      <img src="https://skillicons.dev/icons?i=cloudflare" width="45" title="Cloud Monitoring"/>
+      <br><b style="color:#F38020;">Cloudflare</b>
+    </td>
+  </tr>
+</table>
 
+<p align="center">
+  <sub>✨ Always learning, building, and automating the cloud ✨</sub>
+</p>
 
 ---
 ### 📈 My GitHub Story
