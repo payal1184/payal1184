@@ -19,46 +19,10 @@
 
 ---
 
-### 🌍 Let's Connect  
 
-<p align="center">
-  <a href="https://linkedin.com/in/your-link-here">
-    <img src="https://img.shields.io/badge/LinkedIn-Payal Pachangane-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:yourmail@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/payal1184">
-    <img src="https://img.shields.io/badge/GitHub-Payal1184-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
 
----
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=90&section=footer"/>
-</p>
 
-<p align="center">
-  <sub>🌸 *Learning never stops — every cloud has a silver lining!* ☁️</sub>
-</p>
-
----
-
-### 🧠 A Little About Me  
-
-🌼 I love exploring cloud technologies, automating workflows, and designing simple yet powerful solutions.  
-☁️ Currently learning more about **AWS Lambda, CloudWatch & Serverless Architectures**.  
-💬 Ask me about **AWS | GitHub | DevOps Basics**  
-🎯 Goal: To become a skilled **Cloud / DevOps Engineer**  
-📫 Reach me on: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link-here)  
-🧩 Fun fact: I like turning ideas into real-time cloud projects 🌈  
-
----
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" width="80%">
-</p>
 
 
 ### 🧠 Tech Universe
