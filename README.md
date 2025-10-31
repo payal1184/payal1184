@@ -83,14 +83,27 @@
 
 ---
 
-### 🫶 Connect with Me
+<h2 align="center">🫶 Let's Connect & Collaborate</h2>
+
 <p align="center">
-  <a href="https://linkedin.com/in/payal1184"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:payal@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/payal1184"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://linkedin.com/in/payal1184" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:payal@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Message-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://github.com/payal1184" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
-<p align="center">💡 “Keep building, keep automating, keep learning.” 💡</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F472B6&height=90&section=footer"/>
+</p>
+
+<p align="center">
+  <em>💡 Keep building, keep automating, keep learning — one commit at a time ☁️</em>
+</p>
 
   
 
