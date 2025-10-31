@@ -72,16 +72,12 @@
   
 
 ---
-
 ### 📊 My GitHub Performance
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PayalPachangane&show_icons=true&theme=ayu-mirage&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PayalPachangane&theme=ayu-mirage&hide_border=true" height="165"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PayalPachangane&layout=compact&theme=ayu-mirage&hide_border=true"/>
-</p>
+![Payal’s GitHub stats](https://github-readme-stats.vercel.app/api?username=payal1184&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=payal1184&layout=compact&theme=radical)
+
 
 ---
 
