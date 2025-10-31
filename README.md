@@ -88,7 +88,12 @@
 </p>
 
 
-<img src="https://github-readme-streak-stats-salesp07.vercel.app?user=payal1184&theme=rose_pine&hide_border=true" />
+## 🔥 GitHub Streaks
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=payal1184&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 
 
