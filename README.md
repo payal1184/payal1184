@@ -1,8 +1,6 @@
-<h2 align="center">✨ Hey there, I'm <span style="color:#ff66b2;">Payal Pachangane</span> 👩‍💻</h2>
+<h1 align="center">🌸 Hello, I'm Payal Pachangane</h1>
+<h3 align="center">☁️ Cloud |🚀 DevOps  | 💻 Automation Learner | 🌱 Always Curious</h3>
 
-<p align="center">
-🌈 Cloud | ☁️ AWS | 🧠 DevOps Learner | 💻 Problem Solver
-</p>
 
 ---
 
