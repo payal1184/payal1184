@@ -83,18 +83,26 @@
 
 ---
 
-<h2 align="center">💫 Let's Connect!</h2>
+<h2 align="center">🌸 Let's Connect & Grow!</h2>
 
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=500&lines=Find+me+on+my+digital+spaces!;Let's+connect+and+grow+together!+🤝" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=1200&color=EC4899&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Payal+👋;Cloud+%7C+DevOps+%7C+AWS+Enthusiast;Always+learning+and+building+☁️" alt="Typing SVG" />
 </p>
 
+<!-- Social Icons -->
 <p align="center">
   <a href="https://linkedin.com/in/payal1184"><img src="https://skillicons.dev/icons?i=linkedin" width="48" /></a>
   <a href="mailto:payal@example.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" /></a>
   <a href="https://github.com/payal1184"><img src="https://skillicons.dev/icons?i=github" width="48" /></a>
 </p>
 
+<!-- Pink Waving Hand -->
 <p align="center">
-  <sub>✨ Always open to collaborations & cloud discussions ☁️</sub>
+  <img src="https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif" width="80" alt="Waving Hand Pink Animation" />
 </p>
+
+<p align="center">
+  <sub>💖 Keep smiling, keep learning, keep growing 💫</sub>
+</p>
+
