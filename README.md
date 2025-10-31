@@ -1,17 +1,16 @@
-<!-- ✨ Stylish Header -->
-<h1 align="center">👋 Hey there, I'm <span style="color:#00bfff;">Payal Pachangane</span></h1>
-<h3 align="center">☁️ Cloud | 🛠 DevOps | 💻 Automation Learner | 🌱 Always Curious</h3>
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Payal Pachangane</h1>
+<h3 align="center">🌩️ Cloud & DevOps Enthusiast | AWS | Python | Linux | Always learning ☁️</h3>
 
 ---
 
-### 🌟 Who Am I  
-🧩 Cloud enthusiast focused on AWS, automation & system reliability.  
-🔧 Skilled in EC2, S3, Lambda, and CloudWatch troubleshooting.  
-💬 I love explaining cloud in simple Marathi-English style.  
-🚀 Currently exploring CI/CD and Infrastructure as Code.  
-🎯 Mission: Build scalable, reliable & cost-efficient cloud solutions.
+### 🧭 About Me  
+💡 Passionate about Cloud Computing, DevOps tools, and automation.  
+🚀 Skilled in AWS services (EC2, S3, Lambda, CloudWatch).  
+🧰 Experience with Git, GitHub Actions, and monitoring setups.  
+🎯 Preparing for AWS Technical Support Engineer role.  
+🌱 Always exploring new technologies to build scalable solutions.  
 
----
 
 ### 🧠 Tech Universe
 <p align="center">
