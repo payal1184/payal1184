@@ -16,22 +16,62 @@
 🧩 Fun fact: I enjoy designing my GitHub like my digital resume 😄  
 
 ---
-
-## 💻 Tech I Love Working With
+## 🧩 Tech Stack I Use
 
 <p align="center">
-🧠 Focused on DevOps, Cloud & Automation
+  <em>Tools & Technologies I work with for Cloud, DevOps, and Automation ⚙️</em>
 </p>
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="50"/><br><b>AWS</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="50"/><br><b>Linux</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="50"/><br><b>Docker</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="50"/><br><b>Python</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nginx" width="50"/><br><b>Nginx</b></td>
+    <td align="center" style="padding:15px;">
+      <img src="https://skillicons.dev/icons?i=aws" width="65" title="Amazon Web Services"/>
+      <br><b style="color:#FF9900;">AWS Cloud</b>
+    </td>
+    <td align="center" style="padding:15px;">
+      <img src="https://skillicons.dev/icons?i=linux" width="65" title="Linux OS"/>
+      <br><b style="color:#FCC624;">Linux</b>
+    </td>
+    <td align="center" style="padding:15px;">
+      <img src="https://skillicons.dev/icons?i=docker" width="65" title="Docker Containers"/>
+      <br><b style="color:#0db7ed;">Docker</b>
+    </td>
+    <td align="center" style="padding:15px;">
+      <img src="https://skillicons.dev/icons?i=git" width="65" title="Git Version Control"/>
+      <br><b style="color:#F1502F;">Git</b>
+    </td>
+    <td align="center" style="padding:15px;">
+      <img src="https://skillicons.dev/icons?i=github" width="65" title="GitHub Repositories"/>
+      <br><b style="color:#ffffff;">GitHub</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding:15px;">
+      <img src="https://skillicons.dev/icons?i=python" width="65" title="Python Scripts"/>
+      <br><b style="color:#FFD43B;">Python</b>
+    </td>
+    <td align="center" style="padding:15px;">
+      <img src="https://skillicons.dev/icons?i=mysql" width="65" title="MySQL Database"/>
+      <br><b style="color:#00758F;">MySQL</b>
+    </td>
+    <td align="center" style="padding:15px;">
+      <img src="https://skillicons.dev/icons?i=bash" width="65" title="Bash Scripting"/>
+      <br><b style="color:#4EAA25;">Bash</b>
+    </td>
+    <td align="center" style="padding:15px;">
+      <img src="https://skillicons.dev/icons?i=nginx" width="65" title="Nginx Web Server"/>
+      <br><b style="color:#009639;">Nginx</b>
+    </td>
+    <td align="center" style="padding:15px;">
+      <img src="https://skillicons.dev/icons?i=cloudflare" width="65" title="Cloud Monitoring"/>
+      <br><b style="color:#F38020;">Cloudflare</b>
+    </td>
   </tr>
 </table>
+
+<p align="center">
+  <sub>✨ Always learning, building, and automating the cloud ✨</sub>
+</p>
 
 ---
 ### 📈 My GitHub Story
