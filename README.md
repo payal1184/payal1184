@@ -83,26 +83,26 @@
 
 ---
 
-<h2 align="center">🫶 Let's Connect & Collaborate</h2>
+<h2 align="center">🫶 Connect with Me</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/payal1184" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" />
   </a>
   <a href="mailto:payal@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Message-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" />
   </a>
   <a href="https://github.com/payal1184" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F472B6&height=90&section=footer"/>
+  <em>💡 Keep building, keep automating, keep learning 🌈</em>
 </p>
 
 <p align="center">
-  <em>💡 Keep building, keep automating, keep learning — one commit at a time ☁️</em>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F9A8D4&height=90&section=footer"/>
 </p>
 
   
