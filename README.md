@@ -19,47 +19,47 @@
 
 <table align="center">
   <tr>
-    <td align="center" style="padding:15px;">
-      <img src="https://skillicons.dev/icons?i=aws" width="65" title="Amazon Web Services"/>
-      <br><b style="color:#FF9900;">AWS Cloud</b>
+    <td align="center" style="padding:10px;">
+      <img src="https://skillicons.dev/icons?i=aws" width="65" title="Amazon Web Services" />
+      <br><b><font color="#FF9900">AWS Cloud</font></b>
     </td>
-    <td align="center" style="padding:15px;">
-      <img src="https://skillicons.dev/icons?i=linux" width="65" title="Linux OS"/>
-      <br><b style="color:#FCC624;">Linux</b>
+    <td align="center" style="padding:10px;">
+      <img src="https://skillicons.dev/icons?i=linux" width="65" title="Linux OS" />
+      <br><b><font color="#FCC624">Linux</font></b>
     </td>
-    <td align="center" style="padding:15px;">
-      <img src="https://skillicons.dev/icons?i=docker" width="65" title="Docker Containers"/>
-      <br><b style="color:#0db7ed;">Docker</b>
+    <td align="center" style="padding:10px;">
+      <img src="https://skillicons.dev/icons?i=docker" width="65" title="Docker Containers" />
+      <br><b><font color="#0db7ed">Docker</font></b>
     </td>
-    <td align="center" style="padding:15px;">
-      <img src="https://skillicons.dev/icons?i=git" width="65" title="Git Version Control"/>
-      <br><b style="color:#F1502F;">Git</b>
+    <td align="center" style="padding:10px;">
+      <img src="https://skillicons.dev/icons?i=git" width="65" title="Git Version Control" />
+      <br><b><font color="#F1502F">Git</font></b>
     </td>
-    <td align="center" style="padding:15px;">
-      <img src="https://skillicons.dev/icons?i=github" width="65" title="GitHub Repositories"/>
-      <br><b style="color:#ffffff;">GitHub</b>
+    <td align="center" style="padding:10px;">
+      <img src="https://skillicons.dev/icons?i=github" width="65" title="GitHub Repositories" />
+      <br><b><font color="#FFFFFF">GitHub</font></b>
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding:15px;">
-      <img src="https://skillicons.dev/icons?i=python" width="65" title="Python Scripts"/>
-      <br><b style="color:#FFD43B;">Python</b>
+    <td align="center" style="padding:10px;">
+      <img src="https://skillicons.dev/icons?i=python" width="65" title="Python Scripts" />
+      <br><b><font color="#FFD43B">Python</font></b>
     </td>
-    <td align="center" style="padding:15px;">
-      <img src="https://skillicons.dev/icons?i=mysql" width="65" title="MySQL Database"/>
-      <br><b style="color:#00758F;">MySQL</b>
+    <td align="center" style="padding:10px;">
+      <img src="https://skillicons.dev/icons?i=mysql" width="65" title="MySQL Database" />
+      <br><b><font color="#00758F">MySQL</font></b>
     </td>
-    <td align="center" style="padding:15px;">
-      <img src="https://skillicons.dev/icons?i=bash" width="65" title="Bash Scripting"/>
-      <br><b style="color:#4EAA25;">Bash</b>
+    <td align="center" style="padding:10px;">
+      <img src="https://skillicons.dev/icons?i=bash" width="65" title="Bash Scripting" />
+      <br><b><font color="#4EAA25">Bash</font></b>
     </td>
-    <td align="center" style="padding:15px;">
-      <img src="https://skillicons.dev/icons?i=nginx" width="65" title="Nginx Web Server"/>
-      <br><b style="color:#009639;">Nginx</b>
+    <td align="center" style="padding:10px;">
+      <img src="https://skillicons.dev/icons?i=nginx" width="65" title="Nginx Web Server" />
+      <br><b><font color="#009639">Nginx</font></b>
     </td>
-    <td align="center" style="padding:15px;">
-      <img src="https://skillicons.dev/icons?i=cloudflare" width="65" title="Cloud Monitoring"/>
-      <br><b style="color:#F38020;">Cloudflare</b>
+    <td align="center" style="padding:10px;">
+      <img src="https://skillicons.dev/icons?i=cloudflare" width="65" title="Cloud Monitoring & CDN" />
+      <br><b><font color="#F38020">Cloudflare</font></b>
     </td>
   </tr>
 </table>
@@ -67,7 +67,6 @@
 <p align="center">
   <sub>✨ Always learning, building, and automating the cloud ✨</sub>
 </p>
-
 
 
   
