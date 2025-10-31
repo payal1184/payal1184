@@ -1,8 +1,15 @@
-<h2 align="center">Hey 👋 I'm Payal Pachangane</h2>
-<p align="center">
-  ☁️ Passionate about Cloud, DevOps & Serverless Architecture <br/>
-  🚀 Building things that make automation easier
-</p>
+<!-- ✨ Stylish Header -->
+<h1 align="center">👋 Hey there, I'm <span style="color:#00bfff;">Payal Pachangane</span></h1>
+<h3 align="center">☁️ Cloud | 🛠 DevOps | 💻 Automation Learner | 🌱 Always Curious</h3>
+
+---
+
+### 🌟 Who Am I  
+🧩 Cloud enthusiast focused on AWS, automation & system reliability.  
+🔧 Skilled in EC2, S3, Lambda, and CloudWatch troubleshooting.  
+💬 I love explaining cloud in simple Marathi-English style.  
+🚀 Currently exploring CI/CD and Infrastructure as Code.  
+🎯 Mission: Build scalable, reliable & cost-efficient cloud solutions.
 
 ---
 
