@@ -16,6 +16,8 @@
 🧩 Fun fact: I enjoy designing my GitHub like my digital resume 😄  
 
 ---
+
+
 ## 🧩 Tech Stack I Use
 
 <p align="center">
@@ -24,43 +26,38 @@
 
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr>
-    <td align="center" style="padding:12px; border-radius:15px; background:linear-gradient(135deg,#fce3ff,#e0f7ff); box-shadow:0 0 10px rgba(255,182,255,0.3);">
+    <td align="center" style="padding:12px; border-radius:15px; background:linear-gradient(135deg,#fce3ff,#e0f7ff); box-shadow:0 0 10px rgba(255,182,255,0.3); transition:transform 0.3s, box-shadow 0.3s;">
       <img src="https://skillicons.dev/icons?i=aws" width="45" title="Amazon Web Services"/>
       <br><b style="color:#ff7f50;">AWS Cloud</b>
     </td>
-    <td align="center" style="padding:12px; border-radius:15px; background:linear-gradient(135deg,#fce3ff,#e0f7ff); box-shadow:0 0 10px rgba(255,182,255,0.3);">
+    <td align="center" style="padding:12px; border-radius:15px; background:linear-gradient(135deg,#fce3ff,#e0f7ff); box-shadow:0 0 10px rgba(255,182,255,0.3); transition:transform 0.3s, box-shadow 0.3s;">
       <img src="https://skillicons.dev/icons?i=linux" width="45" title="Linux OS"/>
       <br><b style="color:#d8b4fe;">Linux</b>
     </td>
-    <td align="center" style="padding:12px; border-radius:15px; background:linear-gradient(135deg,#fce3ff,#e0f7ff); box-shadow:0 0 10px rgba(255,182,255,0.3);">
+    <td align="center" style="padding:12px; border-radius:15px; background:linear-gradient(135deg,#fce3ff,#e0f7ff); box-shadow:0 0 10px rgba(255,182,255,0.3); transition:transform 0.3s, box-shadow 0.3s;">
       <img src="https://skillicons.dev/icons?i=docker" width="45" title="Docker Containers"/>
       <br><b style="color:#60a5fa;">Docker</b>
     </td>
-    <td align="center" style="padding:12px; border-radius:15px; background:linear-gradient(135deg,#fce3ff,#e0f7ff); box-shadow:0 0 10px rgba(255,182,255,0.3);">
+    <td align="center" style="padding:12px; border-radius:15px; background:linear-gradient(135deg,#fce3ff,#e0f7ff); box-shadow:0 0 10px rgba(255,182,255,0.3); transition:transform 0.3s, box-shadow 0.3s;">
       <img src="https://skillicons.dev/icons?i=git" width="45" title="Git Version Control"/>
       <br><b style="color:#f87171;">Git</b>
     </td>
-    <td align="center" style="padding:12px; border-radius:15px; background:linear-gradient(135deg,#fce3ff,#e0f7ff); box-shadow:0 0 10px rgba(255,182,255,0.3);">
+    <td align="center" style="padding:12px; border-radius:15px; background:linear-gradient(135deg,#fce3ff,#e0f7ff); box-shadow:0 0 10px rgba(255,182,255,0.3); transition:transform 0.3s, box-shadow 0.3s;">
       <img src="https://skillicons.dev/icons?i=github" width="45" title="GitHub Repositories"/>
       <br><b style="color:#94a3b8;">GitHub</b>
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding:12px; border-radius:15px; background:linear-gradient(135deg,#fce3ff,#e0f7ff); box-shadow:0 0 10px rgba(255,182,255,0.3);">
+    <td align="center" style="padding:12px; border-radius:15px; background:linear-gradient(135deg,#fce3ff,#e0f7ff); box-shadow:0 0 10px rgba(255,182,255,0.3); transition:transform 0.3s, box-shadow 0.3s;">
       <img src="https://skillicons.dev/icons?i=python" width="45" title="Python Scripts"/>
       <br><b style="color:#facc15;">Python</b>
     </td>
-    <td align="center" style="padding:12px; border-radius:15px; background:linear-gradient(135deg,#fce3ff,#e0f7ff); box-shadow:0 0 10px rgba(255,182,255,0.3);">
+    <td align="center" style="padding:12px; border-radius:15px; background:linear-gradient(135deg,#fce3ff,#e0f7ff); box-shadow:0 0 10px rgba(255,182,255,0.3); transition:transform 0.3s, box-shadow 0.3s;">
       <img src="https://skillicons.dev/icons?i=mysql" width="45" title="MySQL Database"/>
       <br><b style="color:#38bdf8;">MySQL</b>
     </td>
-    <td align="center" style="padding:12px; border-radius:15px; background:linear-gradient(135deg,#fce3ff,#e0f7ff); box-shadow:0 0 10px rgba(255,182,255,0.3);">
-      <img src="https://skillicons.dev/icons?i=bash" width="45" title="Bash Scripting"/>
-      <br><b style="color:#4ade80;">Bash</b>
-    </td>
-    <td align="center" style="padding:12px; border-radius:15px; background:
+    <td align="center" style="padding:12px; border-radius:15px; background:linear-gradient(135deg,#fce3ff,#e0f7ff); box-shadow:0 0 10px rgba(255,182,255,0.3); transition:transform 0.3s, box-shadow 0.3
 
-    
 
 
 
