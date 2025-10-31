@@ -41,17 +41,11 @@
 ---
 
 ### 🏆 Achievements & Highlights
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=payal1184&theme=discord&no-frame=true&margin-w=10" />
-</p>
+
 
 ---
 
-### 🎯 Fun & Personal Zone
-- 🌱 Currently exploring **AWS & Cloud Automation**
-- 💬 Ask me about **EC2, S3, Lambda, CloudWatch**
-- 🎧 Love listening to lofi while coding
-- ☕ Always up for coffee & new challenges
+
 
 ---
 
