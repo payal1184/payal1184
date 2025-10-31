@@ -87,7 +87,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payal1184&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=payal1184&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=payal1184&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 
 
