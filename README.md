@@ -4,7 +4,7 @@
 
 ---
 
-### 💫 Who Am I?
+### 💫 About Me
 
 🌼 I’m a passionate learner exploring **Cloud Computing & DevOps**,  
      who believes in automating smart and building efficient systems!  
