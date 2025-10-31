@@ -19,32 +19,6 @@
 
 ---
 
-### 🌍 Let's Connect  
-
-<p align="center">
-  <a href="https://linkedin.com/in/your-link-here">
-    <img src="https://img.shields.io/badge/LinkedIn-Payal Pachangane-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:yourmail@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/payal1184">
-    <img src="https://img.shields.io/badge/GitHub-Payal1184-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=90&section=footer"/>
-</p>
-
-<p align="center">
-  <sub>🌸 *Learning never stops — every cloud has a silver lining!* ☁️</sub>
-</p>
-
----
-
 ### 🧠 Tech Universe
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,python,bash,mysql,nginx,git,github,linux,cloudflare,vscode&perline=5" />
