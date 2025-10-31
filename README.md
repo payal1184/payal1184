@@ -17,8 +17,7 @@
 ## 📊 My GitHub Story
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=payal1184&theme=react-dark)
 
-🔥 **GitHub Streaks**
-[![GitHub Streak](https://streak-stats.demolab.com?user=payal1184&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=payal1184&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ⚙️ **GitHub Stats**
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=payal1184&show_icons=true&theme=radical)
