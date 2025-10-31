@@ -24,6 +24,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payal1184&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
+🔥 **GitHub Streaks**
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=payal1184&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
 ---
 
 ### 🏆 Achievements & Highlights
