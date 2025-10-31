@@ -17,11 +17,21 @@
 
 ---
 
-### 🧠 Tech Universe
+## 💻 Tech I Love Working With
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,python,bash,mysql,nginx,git,github,linux,cloudflare,vscode&perline=5" />
+🧠 Focused on DevOps, Cloud & Automation
 </p>
-<p align="center">✨ Exploring — Terraform | Docker | Lambda | CloudWatch ✨</p>
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="50"/><br><b>AWS</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="50"/><br><b>Linux</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="50"/><br><b>Docker</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="50"/><br><b>Python</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nginx" width="50"/><br><b>Nginx</b></td>
+  </tr>
+</table>
 
 ---
 ### 📈 My GitHub Story
