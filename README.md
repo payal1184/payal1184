@@ -11,19 +11,12 @@
 💬 Always curious about Linux, networking, and cloud security.
 
 ---
-<h3 align="center">🌈 Technologies That Empower My Work</h3>
+<h3 align="center">💻 My Technology Toolkit</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-FE9A2E?style=flat-square&logo=amazon-aws&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Linux-222222?style=flat-square&logo=linux&logoColor=FCC624"/> 
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=FFD43B"/> 
-  <img src="https://img.shields.io/badge/MySQL-00618A?style=flat-square&logo=mysql&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/CloudWatch-FE9A2E?style=flat-square&logo=amazonaws&logoColor=white"/> 
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,git,github,python,mysql,bash,nginx&theme=dark" />
 </p>
+
 
 
   
