@@ -98,11 +98,17 @@
 
 
 ---
+## 🏆 Achievements & Highlights  
+✨ *a few proud moments from my cloud journey...* ✨  
 
-### 🏆 Achievements & Highlights
+☁️ Designed and deployed a **Serverless Weather Alert System** using *AWS Lambda, SNS, and CloudWatch*  
+🧩 Created a **3-Tier Architecture Project** with EC2, RDS & Load Balancer integration  
+🚀 Automated deployment pipelines using *GitHub & AWS*  
+🌸 Built and designed my own **modern GitHub portfolio** ✨  
+💬 Explored *CI/CD, Docker, CloudWatch monitoring,* and *IAM role management*  
+💻 Developed and tested *Python & Bash* scripts for automation  
+🎯 Passionate about building projects that make *Cloud + DevOps* learning simple & fun  
 
-
----
 
 
 
