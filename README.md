@@ -110,12 +110,6 @@
 🎯 Passionate about building projects that make *Cloud + DevOps* learning simple & fun  
 
 ---
-## 🔝 Top Contributed Repo
-
-🚀 [AWS Weather Alerts](https://github.com/payal1184/AWS-Weather-Alerts)  
-A serverless project using **AWS Lambda, SNS, and CloudWatch** to send real-time weather alerts.
-
----
 
 <h2 align="center">💫 Let's Connect!</h2>
 
