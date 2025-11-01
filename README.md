@@ -116,8 +116,8 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/payal1184"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" /></a>
-  <a href="mailto:payal@example.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" /></a>
+  <a href="https://www.linkedin.com/in/payal-pachangane-980327341"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" /></a>
+  <a href="mailto:pachanganepayal@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" /></a>
   <a href="https://github.com/payal1184"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" /></a>
 </p>
 
