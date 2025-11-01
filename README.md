@@ -111,11 +111,10 @@
 
 ---
 ## 🔝 Top Contributed Repo
-<div align="center">
 
-[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api/pin/?username=payal1184&repo=AWS-Weather-Alerts&theme=radical)](https://github.com/payal1184/AWS-Weather-Alerts)
+🚀 [AWS Weather Alerts](https://github.com/payal1184/AWS-Weather-Alerts)  
+A serverless project using **AWS Lambda, SNS, and CloudWatch** to send real-time weather alerts.
 
-</div>
 ---
 
 <h2 align="center">💫 Let's Connect!</h2>
