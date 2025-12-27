@@ -90,7 +90,10 @@
 ## 🔥 GitHub Streaks
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=payal1184&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=payal1184&theme=radical&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 
