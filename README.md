@@ -85,8 +85,23 @@
 
 
 
-## 🔥 GitHub Streaks <p align="center"> <img src="https://streak-stats.demolab.com?user=payal1184 &theme=tokyonight &hide_border=true &background=0D1117 &ring=7C3AED &fire=F97316 &currStreakNum=38BDF8 &sideNums=A78BFA &currStreakLabel=E5E7EB &sideLabels=9CA3AF &dates=6B7280" /> </p>
+## 🔥 GitHub Streaks
 
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=payal1184
+    &theme=tokyonight
+    &hide_border=true
+    &background=0D1117
+    &ring=7C3AED
+    &fire=F97316
+    &currStreakNum=38BDF8
+    &sideNums=A78BFA
+    &currStreakLabel=E5E7EB
+    &sideLabels=9CA3AF
+    &dates=6B7280"
+  />
+</p>
 
 
 
