@@ -87,11 +87,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payal1184&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
-## 🔥 GitHub Overview
+## 🔥 GitHub Streaks
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=payal1184&show_icons=true&count_private=true&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=payal1184&theme=tokyonight&hide_border=true" />
 </p>
+
 
 
 
