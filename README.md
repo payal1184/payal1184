@@ -85,10 +85,14 @@
 
 
 
-
 ## 🔥 GitHub Streaks
 
-![GitHub Streak](https://streak-stats.demolab.com?user=payal1184&theme=dark)
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=payal1184&theme=dark&hide_border=true&background=0D1117&ring=EC4899&fire=F97316&currStreakNum=FACC15&sideNums=A855F7&currStreakLabel=E5E7EB&sideLabels=CBD5E1&dates=9CA3AF"
+    width="600"
+  />
+</p>
 
 
 
