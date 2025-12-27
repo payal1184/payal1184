@@ -88,9 +88,7 @@
 
 ## 🔥 GitHub Streaks
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=payal1184&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=payal1184&theme=dark)
 
 
 
