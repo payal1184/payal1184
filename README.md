@@ -89,19 +89,11 @@
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=payal1184
-    &theme=tokyonight
-    &hide_border=true
-    &background=0D1117
-    &ring=7C3AED
-    &fire=F97316
-    &currStreakNum=38BDF8
-    &sideNums=A78BFA
-    &currStreakLabel=E5E7EB
-    &sideLabels=9CA3AF
-    &dates=6B7280"
+    src="https://streak-stats.demolab.com?user=payal1184&theme=dark&hide_border=true&background=0D1117&ring=EC4899&fire=F97316&currStreakNum=FACC15&sideNums=A855F7&currStreakLabel=E5E7EB&sideLabels=CBD5E1&dates=9CA3AF"
+    width="600"
   />
 </p>
+
 
 
 
