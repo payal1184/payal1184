@@ -130,9 +130,7 @@
   <a href="https://github.com/payal1184"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" /></a>
 </p>
 
-<p align="center">
-  <sub>💜 Always open to collaborations & cloud discussions ☁️</sub>
-</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F9A8D4&height=90&section=footer"/>
